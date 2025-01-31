@@ -4,7 +4,7 @@
 ## MongoDB Setup
 $ pritunl setup-key
 
-## UI Setup Passwd
+## UI Setup Passwd
 
 $ pritunl default-password
 
